@@ -1,5 +1,4 @@
 #include <iostream>
-//#include"maxHeap.cpp"
 using namespace std;
 
 void heapDelete(int *a, int& n)
